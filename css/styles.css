@@ -15,7 +15,6 @@
   margin-left: 20px;
   padding: 14px 6px;
   transition: all .07s;
-  transform: scale(1.1); 
   border: 1px solid yellow;
   border-radius: 8px;
   text-align: center;
@@ -26,5 +25,6 @@
 }
 
 .playing {
+  transform: scale(1.1);
   background: pink;
 }
